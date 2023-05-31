@@ -1,3 +1,4 @@
+//functionの設定
 function calcBmi() {
     var height = document.getElementById("height").value
     var weight = document.getElementById("weight").value
